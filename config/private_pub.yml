@@ -6,5 +6,5 @@
 
 production:
   server: "http://ramfayeserver.herokuapp.com/faye"
-  secret_token: "batkaro"
+  secret_token: "some-for-private-usage"
   signature_expiration: 86400 # one day
